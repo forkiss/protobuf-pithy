@@ -1,0 +1,1 @@
+Google proto library for PHP only
